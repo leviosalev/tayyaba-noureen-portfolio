@@ -13,9 +13,9 @@
 
 ** (_Spring 2024_)**
 - Gravitational Collapse
-- ![Report](\assets\)
+- ![Report](\assets\Tayyaba_Noureen_Gravitational_Collapse.pdf)
 
-## Projects
+## Teaching Experience
 ###
 
 
