@@ -18,8 +18,8 @@
 
 **Intro to QFT Course Project (_Spring 2024_)**
 - Decay of Bound Muons
-- [Report.pdf](assets/Tayyaba_Noureen_Gravitational_Collapse.pdf)
-- [Presentation.pdf](assets/Gravitational Collapse_Presentation.pdf)
+- [Report.pdf](assets/Bound_Muon_Decay_25100223_and_25100114.pdf)
+- [Presentation.pdf]()
   
 
 ## Teaching Experience
