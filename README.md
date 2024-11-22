@@ -13,7 +13,7 @@
 
 **General Relativity Course Project (_Spring 2024_)**
 - Gravitational Collapse
-- ![Report.pdf](\assets\Tayyaba_Noureen_Gravitational_Collapse.pdf)
+- [Report.pdf](\assets\Tayyaba_Noureen_Gravitational_Collapse.pdf)
 
 ## Teaching Experience
 ###
