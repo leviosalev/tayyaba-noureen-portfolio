@@ -24,7 +24,7 @@
 **Quantum Mechanics II (_Spring 2024_)**
 - Optical Pumping: Lasers and Masers
 - [Report.pdf](assets/Optical_Pumping_Project_Report.pdf)
-- [Presentation.pdf](assets/Bound_Muon_Decay_Presentation.pdf)
+- [Presentation.pdf](assets/Optical_Pumping_Presentation.pdf)
   
 
 ## Teaching Experience
