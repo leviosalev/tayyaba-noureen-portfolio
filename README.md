@@ -7,7 +7,7 @@ Welcome to my academic and research portfolio! Here, you'll find details of my p
 
 ## Technical Skills  
 C++, Python, MATLAB, Maple  
-
+  
 ---
 
 ## Education  
