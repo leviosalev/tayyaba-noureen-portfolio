@@ -14,7 +14,7 @@ C++, Python, MATLAB, Maple
 - **B.S., Physics** | Lahore University of Management Sciences  
 
 ---
-
+  
 ## Research Experience  
 
 ### Senior Year Project (_July 2024 - Present_)  
