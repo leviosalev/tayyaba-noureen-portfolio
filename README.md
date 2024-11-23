@@ -1,6 +1,10 @@
 # Tayyaba Noureen
 Welcome to my academic and research portfolio! Here, you'll find details of my projects, research experience, and teaching roles, along with links to relevant reports and presentations.
-### Physics Undergraduate
+### Contents
+- [Education](#education)
+- [Research Experience](#research-experience)
+- [Teaching Experience](#teaching-experience)
+- [Access Reports and Presentations](#access-reports-and-presentations)
 
 #### Technical Skills: C++, Python, MATLAB, Maple
 
@@ -10,7 +14,7 @@ Welcome to my academic and research portfolio! Here, you'll find details of my p
 ## Research Experience
 **Senior year Poject (_July 2024 - Present_)**
 - Gravitational Waves from Compact Binaries
-- Thesis: 
+- Thesis (in progress) 
 
 **General Relativity Course Project (_Spring 2024_)**
 - Gravitational Collapse
@@ -26,7 +30,10 @@ Welcome to my academic and research portfolio! Here, you'll find details of my p
 - Optical Pumping: Lasers and Masers
 - [Report.pdf](assets/Optical_Pumping_Project_Report.pdf)
 - [Presentation.pdf](assets/Optical_Pumping_Presentation.pdf)
-  
+
+### Future Work
+- **Senior Year Thesis**: Expanding on gravitational wave models.
+- **Condensed Matter Research**: Exploring Landau theory for Fermi liquids.
 
 ## Teaching Experience
 - Teaching Assistant Phy 404 Relativistic Electrodynamics (_Sept. 2024 - Present_)
