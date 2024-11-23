@@ -48,7 +48,7 @@ C++, Python, MATLAB, Maple
 ---
 
 ## Future Work  
-- **Senior Year Thesis**: Expanding on gravitational wave models.  
+- **Senior Year Thesis**: Construction of Analytical Waveforms for Precessing Binaries.  
 - **Condensed Matter Research**: Exploring Landau theory for Fermi liquids.  
 
 ---
