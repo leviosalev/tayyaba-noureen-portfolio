@@ -55,4 +55,4 @@ C++, Python, MATLAB, Maple
 
 ## Contact  
 📧 Email: [25100223@lums.edu.pk]  
-🔗 [LinkedIn][(https://www.linkedin.com/in/tayyaba-noureen-846b21282/)] 
+🔗 [LinkedIn](https://www.linkedin.com/in/tayyaba-noureen-846b21282/)
