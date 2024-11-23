@@ -23,7 +23,12 @@
   
 
 ## Teaching Experience
-###
+- Teaching Assistant Phy 404 Relativistic Electrodynamics (_Sept. 2024 - Present_)
+- Teaching Assistant Phy 104 Modern Physics (_Spring 2024_)
+- Teaching Assistant Phy 204 Electricity and Magnetism (_Fall 2023_)
+- National Outreach Program Summer Coaching Session Instructor (_Summer 2023_)
+- Teaching Assistant Math 101 Calculus (_Spring 2023_)
+  
 
 
 
