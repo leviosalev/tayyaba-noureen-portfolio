@@ -19,7 +19,7 @@ C++, Python, MATLAB, Maple
 
 ### Senior Year Project (_July 2024 - Present_)  
 - **Gravitational Waves from Compact Binaries**  
-  - Thesis (in progress): _To be uploaded soon._
+  - Thesis (in progress): [Mid Project Report](assets/Mid_Project_Report.pdf)
 
 ### General Relativity Course Project (_Spring 2024_)  
 - **Gravitational Collapse**  
