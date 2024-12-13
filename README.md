@@ -11,7 +11,7 @@ C++, Python, MATLAB, Maple
 ---
 
 ## Education  
-- **B.S., Physics** | Lahore University of Management Sciences  
+- **B.S., Physics** | Lahore University of Management Sciences  | _Sept. 2021 - Jul. 2025_
 
 ---
   
