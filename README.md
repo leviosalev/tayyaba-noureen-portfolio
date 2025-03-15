@@ -16,10 +16,14 @@ C++, Python, MATLAB, Maple
 ---
   
 ## Research Experience  
-
+    
 ### Senior Year Project (_July 2024 - Present_)  
 - **Gravitational Waves from Compact Binaries**  
   - Thesis (in progress): [Mid Project Report](assets/Mid_Project_Report.pdf)
+
+### Magnetism: Theory and Experiment (_November - December 2024_)  
+- **Landau Theory of Fermi Liquids**  
+  - [Report] (assets/)
 
 ### General Relativity Course Project (_Spring 2024_)  
 - **Gravitational Collapse**  
@@ -49,7 +53,6 @@ C++, Python, MATLAB, Maple
 
 ## Future Work  
 - **Senior Year Thesis**: Construction of Analytical Waveforms for Precessing Binaries.  
-- **Condensed Matter Research**: Exploring Landau theory for Fermi liquids.  
 
 ---
 
