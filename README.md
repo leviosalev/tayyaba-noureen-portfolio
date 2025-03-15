@@ -23,7 +23,7 @@ C++, Python, MATLAB, Maple
 
 ### Magnetism: Theory and Experiment (_November - December 2024_)  
 - **Landau Theory of Fermi Liquids**  
-  - [Report] (assets/Magnetism_Project_Tayyaba_Noureen.pdf)
+  - [Report](assets/Magnetism_Project_Tayyaba_Noureen.pdf)
 
 ### General Relativity Course Project (_Spring 2024_)  
 - **Gravitational Collapse**  
