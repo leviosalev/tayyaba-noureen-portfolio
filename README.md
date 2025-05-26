@@ -21,7 +21,7 @@ C++, Python, MATLAB, Maple
 - **Gravitational Waves from Compact Binaries**  
   - Thesis: [Gravitational-Waves-from-Compact-Binaries](assets/Tayyaba-Noureen-Gravitational-Waves-from-Compact-Binaries-Foundations-and-Waveform-Construction-2025.pdf)
 
-### Magnetism: Theory and Experiment (_Nov – Dec 2024_)  
+### Magnetism: Theory and Experiment (_Fall 2024_)  
 - **Landau Theory of Fermi Liquids**  
   - [Report](assets/Magnetism_Project_Tayyaba_Noureen.pdf)
 
@@ -40,14 +40,14 @@ C++, Python, MATLAB, Maple
   - [Report](assets/Optical_Pumping_Project_Report.pdf)  
   - [Presentation](assets/Optical_Pumping_Presentation.pdf)
 
-### Principles and Techniques of Data Science (_Spring 2024_)  
+### Principles and Techniques of Data Science (_Spring 2025_)  
 - **Exploratory Data Analysis of PakWheels Dataset**  
   - [Medium Blog Post](https://medium.com/@25100223/a-data-driven-analysis-of-pakwheels-com-7e153890d514)
 
 ---
 
 ## Teaching Experience  
-- Teaching Assistant, Phy 404 Relativistic Electrodynamics (_Sept. 2024 – Present_)  
+- Teaching Assistant, Phy 404 Relativistic Electrodynamics (_Fall 2025_)  
 - Teaching Assistant, Phy 104 Modern Physics (_Spring 2024_)  
 - Teaching Assistant, Phy 204 Electricity and Magnetism (_Fall 2023_)  
 - Instructor, National Outreach Program Summer Coaching Session (_Summer 2023_)  
