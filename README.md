@@ -11,17 +11,17 @@ C++, Python, MATLAB, Maple
 ---
 
 ## Education  
-- **BS Physics** | Lahore University of Management Sciences  | _Sept. 2021 - Jun. 2025_
+- **BS Physics** | Lahore University of Management Sciences | _Sept. 2021 – Jun. 2025_
 
 ---
-  
-## Research Experience  
-    
-### Senior Year Project (_July 2024 - Present_)  
-- **Gravitational Waves from Compact Binaries**  
-  - Thesis (in progress): [Mid Project Report](assets/Mid_Project_Report.pdf)
 
-### Magnetism: Theory and Experiment (_November - December 2024_)  
+## Research Experience  
+
+### Senior Year Project (_July 2024 – May 2025_)  
+- **Gravitational Waves from Compact Binaries**  
+  - Thesis: [Gravitational-Waves-from-Compact-Binaries](assets/Tayyaba-Noureen-Gravitational-Waves-from-Compact-Binaries-Foundations-and-Waveform-Construction-2025.pdf)
+
+### Magnetism: Theory and Experiment (_Nov – Dec 2024_)  
 - **Landau Theory of Fermi Liquids**  
   - [Report](assets/Magnetism_Project_Tayyaba_Noureen.pdf)
 
@@ -38,21 +38,20 @@ C++, Python, MATLAB, Maple
 ### Quantum Mechanics II (_Spring 2024_)  
 - **Optical Pumping: Lasers and Masers**  
   - [Report](assets/Optical_Pumping_Project_Report.pdf)  
-  - [Presentation](assets/Optical_Pumping_Presentation.pdf)  
+  - [Presentation](assets/Optical_Pumping_Presentation.pdf)
+
+### Principles and Techniques of Data Science (_Spring 2024_)  
+- **Exploratory Data Analysis of PakWheels Dataset**  
+  - [Medium Blog Post](https://medium.com/@25100223/a-data-driven-analysis-of-pakwheels-com-7e153890d514)
 
 ---
 
 ## Teaching Experience  
-- Teaching Assistant Phy 404 Relativistic Electrodynamics (_Sept. 2024 - Present_)  
-- Teaching Assistant Phy 104 Modern Physics (_Spring 2024_)  
-- Teaching Assistant Phy 204 Electricity and Magnetism (_Fall 2023_)  
-- National Outreach Program Summer Coaching Session Instructor (_Summer 2023_)  
-- Teaching Assistant Math 101 Calculus (_Spring 2023_)  
-
----
-
-## Future Work  
-- **Senior Year Thesis**: Construction of Analytical Waveforms for Precessing Binaries.  
+- Teaching Assistant, Phy 404 Relativistic Electrodynamics (_Sept. 2024 – Present_)  
+- Teaching Assistant, Phy 104 Modern Physics (_Spring 2024_)  
+- Teaching Assistant, Phy 204 Electricity and Magnetism (_Fall 2023_)  
+- Instructor, National Outreach Program Summer Coaching Session (_Summer 2023_)  
+- Teaching Assistant, Math 101 Calculus (_Spring 2023_)  
 
 ---
 
