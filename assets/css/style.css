@@ -1,6 +1,5 @@
 ---
 ---
-@import "{{ site.theme }}";
 
 :root {
   --theme-primary: #0d47a1;   /* Dark Blue */
@@ -12,10 +11,8 @@
 }
 
 .page-header {
-  background: linear-gradient(135deg, #0d47a1, #000000) !important;
+  background: url("{{ '/assets/images/port_bg.jpg' | relative_url }}") no-repeat center center !important;
   background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
 }
 
 
