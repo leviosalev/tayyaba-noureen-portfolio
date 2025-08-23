@@ -1,2 +1,4 @@
 title: Tayyaba Noureen
-theme: jekyll-theme-cayman
+theme: null
+plugins:
+  - jekyll-remote-theme
