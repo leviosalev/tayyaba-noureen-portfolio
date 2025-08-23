@@ -1,5 +1,6 @@
 ---
 ---
+@import "{{ site.theme }}";
 
 :root {
   --theme-primary: #0d47a1;   /* Dark Blue */
@@ -9,8 +10,6 @@
   --theme-muted: #b0bec5;     /* Cool gray */
   --theme-contrast: #ffca28;  /* Yellow */
 }
-
-@import "{{ site.theme }}";
 
 .page-header {
   background: linear-gradient(135deg, #0d47a1, #000000) !important;
