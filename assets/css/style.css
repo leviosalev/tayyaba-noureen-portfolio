@@ -1,1 +1,8 @@
 @import "{{ site.theme }}"; 
+
+.page-header {
+  background-image: url("/assets/images/port_bg.png"); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
