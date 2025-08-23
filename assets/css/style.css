@@ -11,7 +11,7 @@
 }
 
 .page-header {
-  background: url("{{ '/assets/images/port_bg.jpg' | relative_url }}") no-repeat center center !important;
+  background: url("{{ '/assets/images/port_bg.png' | relative_url }}") no-repeat center center !important;
   background-size: cover !important;
 }
 
