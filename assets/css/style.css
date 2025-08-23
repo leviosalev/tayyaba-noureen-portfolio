@@ -20,7 +20,6 @@
   --theme-contrast: #ffca28;  /* Yellow for highlights */
 }
 
-/* Buttons */
 .btn, .page-header .btn {
   background-color: var(--theme-primary);
   color: var(--theme-text);
